@@ -106,7 +106,7 @@
 			isa = PBXGroup;
 			children = (
 				2983015B298907CA005387B9 /* ViewModel */,
-				2983015A298907A7005387B9 /* View */,
+				2983015A298907A7005387B9 /* Views */,
 				2983012829890702005387B9 /* AppDelegate.swift */,
 				2983012A29890702005387B9 /* SceneDelegate.swift */,
 				2983013129890707005387B9 /* Assets.xcassets */,
@@ -133,7 +133,7 @@
 			path = AscendUITests;
 			sourceTree = "<group>";
 		};
-		2983015A298907A7005387B9 /* View */ = {
+		2983015A298907A7005387B9 /* Views */ = {
 			isa = PBXGroup;
 			children = (
 				2983012E29890702005387B9 /* Main.storyboard */,
@@ -141,7 +141,7 @@
 				29830158298907A1005387B9 /* SecondViewController.swift */,
 				2983015C29890D82005387B9 /* CustomCollectionViewCell.swift */,
 			);
-			path = View;
+			path = Views;
 			sourceTree = "<group>";
 		};
 		2983015B298907CA005387B9 /* ViewModel */ = {

@@ -43,6 +43,7 @@ extension FirstViewController{
     private func setupViews(){
         topView.layer.borderWidth = 1.0
         topView.layer.borderColor = UIColor.black.cgColor
+        topView.layer.cornerRadius = 5.0
         goButton.layer.cornerRadius = 5.0
     }
     
